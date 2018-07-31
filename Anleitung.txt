@@ -7,3 +7,4 @@ Vokabel abfragen
 Einstellung ändern
 
 Karten exportieren
+Text
