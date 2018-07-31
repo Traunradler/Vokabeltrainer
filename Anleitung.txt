@@ -5,3 +5,5 @@ Karte löschen
 Vokabel abfragen
 
 Einstellung ändern
+
+Karten exportieren
