@@ -3,7 +3,7 @@ Karte anlegen
 Karte löschen
 
 Vokabel abfragen
-
+<h1> Setting </h1>
 Einstellung ändern
 
 Karten exportieren
