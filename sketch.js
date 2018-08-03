@@ -22,6 +22,8 @@ class Fach {
 }
 //Kommentar
 
+//Kommentar
+
 class Karte{
 	constructor(deutsch, englisch,id)
 {
