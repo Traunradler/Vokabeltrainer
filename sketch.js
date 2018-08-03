@@ -20,6 +20,7 @@ class Fach {
 	this.inhalt=[];
 	}
 }
+//Kommentar
 
 class Karte{
 	constructor(deutsch, englisch,id)
